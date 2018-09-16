@@ -11,7 +11,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+ when you want to test new feature or new language version of code, but it doesn't change much with the original.
+ branches will make them can devolop independently.
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
